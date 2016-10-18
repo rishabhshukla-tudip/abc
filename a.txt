@@ -1,6 +1,6 @@
 abhishek prajapati
 b
-
+auto merge by me
 rishabh14augshukla@gmail.com
 
 puja.raj@tudip.nl
@@ -10,7 +10,3 @@ I am Abhishek
 adding new lines
 changes by puja
 new changes by puja
-
-
-
-auto merge line
