@@ -1,12 +1,1 @@
-abhishek prajapati
-b
-auto merge by me
-rishabh14augshukla@gmail.com
-auto merge for puja
-puja.raj@tudip.nl
-rishabh shukla
-hello i m tudip
-I am Abhishek
-adding new lines
-changes by puja
-new changes by puja
+Hello world
